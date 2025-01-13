@@ -5,6 +5,8 @@ The **Bread Basket Bakery** project involves analyzing the sales data from an on
 
 This project leverages **Power BI** to create visualizations, allowing for a deep dive into the sales data. It provides insights into the bakery's performance, helping the bakery make informed business decisions.
 
+![Screenshot](Screenshot%202025-01-12%20202239.png)
+
 ## Instructions
 
 ### How to Use This Project:
